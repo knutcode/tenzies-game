@@ -9,6 +9,7 @@ main {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	transform: scale(2);
 }
 
 .dice--wrapper {
