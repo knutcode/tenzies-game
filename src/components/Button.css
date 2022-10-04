@@ -1,14 +1,15 @@
 button {
 	border-radius: 5px;
 	font-family: 'Karla', sans-serif;
+	font-size: 18px;
 	font-weight: 700;
 	color: white;
 	background-color: #5035ff;
 	border: none;
 	cursor: pointer;
 	transition: 0.3s;
-	width: 92px;
-	height: 36px;
+	min-width: 110px;
+	min-height: 42px;
 }
 
 button:hover {
